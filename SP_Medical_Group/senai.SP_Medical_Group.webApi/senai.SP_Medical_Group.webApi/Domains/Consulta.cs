@@ -29,5 +29,18 @@ namespace senai.SP_Medical_Group.webApi.Domains
         public virtual Medico IdMedicoNavigation { get; set; }
         public virtual Paciente IdPacienteNavigation { get; set; }
         public virtual StatusConsulta IdStatusConsultaNavigation { get; set; }
+
+        public StatusConsulta()
+        {
+            Consulta = new HashSet<Consulta>();
+        }
+
+        public int IdStatusConsulta { get; set; }
+
+        [Required(ErrorMessage = "Campo obrigatório !")]
+        public string DescricaoStatusConsulta { get; set; }
+
+        public virtual ICollection<Consulta> Consulta { get; set; }
     }
 }
+

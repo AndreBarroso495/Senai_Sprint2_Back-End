@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\familia\\Desktop\\Senai\\Sprint2_Back_End\\SP_Medical_Group_DBFirst\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj": {}
+    "C:\\Users\\FIC\\Desktop\\Andre\\Senai_Sprint2_back-end\\SP_Medical_Group\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\familia\\Desktop\\Senai\\Sprint2_Back_End\\SP_Medical_Group_DBFirst\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj": {
+    "C:\\Users\\FIC\\Desktop\\Andre\\Senai_Sprint2_back-end\\SP_Medical_Group\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\familia\\Desktop\\Senai\\Sprint2_Back_End\\SP_Medical_Group_DBFirst\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj",
+        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\Andre\\Senai_Sprint2_back-end\\SP_Medical_Group\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj",
         "projectName": "senai.SP_Medical_Group.webApi",
-        "projectPath": "C:\\Users\\familia\\Desktop\\Senai\\Sprint2_Back_End\\SP_Medical_Group_DBFirst\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj",
-        "packagesPath": "C:\\Users\\familia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\familia\\Desktop\\Senai\\Sprint2_Back_End\\SP_Medical_Group_DBFirst\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\obj\\",
+        "projectPath": "C:\\Users\\FIC\\Desktop\\Andre\\Senai_Sprint2_back-end\\SP_Medical_Group\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi.csproj",
+        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FIC\\Desktop\\Andre\\Senai_Sprint2_back-end\\SP_Medical_Group\\senai.SP_Medical_Group.webApi\\senai.SP_Medical_Group.webApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net50"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net50": {
             "projectReferences": {}
           }
         },
@@ -37,8 +36,7 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net50": {
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -60,7 +58,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.5, )"
+              "version": "[5.0.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -71,25 +69,12 @@
               "version": "[6.11.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }

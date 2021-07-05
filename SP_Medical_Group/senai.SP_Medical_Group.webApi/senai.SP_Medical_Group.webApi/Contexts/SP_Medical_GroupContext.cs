@@ -23,7 +23,6 @@ namespace senai.SP_Medical_Group.webApi.Contexts
         public virtual DbSet<Especialidade> Especialidades { get; set; }
         public virtual DbSet<Medico> Medicos { get; set; }
         public virtual DbSet<Paciente> Pacientes { get; set; }
-        public virtual DbSet<StatusConsulta> StatusConsultas { get; set; }
         public virtual DbSet<TiposUsuario> TiposUsuarios { get; set; }
         public virtual DbSet<Usuario> Usuarios { get; set; }
 
@@ -32,7 +31,7 @@ namespace senai.SP_Medical_Group.webApi.Contexts
             if (!optionsBuilder.IsConfigured)
             {
 //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-REURDRV ; Initial Catalog = SP_Medical_Group; user Id=sa; pwd=1234;");
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-REURDRV ; Initial Catalog = SP_Medical_Group; user Id=sa; pwd=SA132;");
             }
         }
 

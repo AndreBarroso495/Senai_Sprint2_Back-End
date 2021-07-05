@@ -136,3 +136,5 @@ C:\Users\familia\Desktop\Senai\Sprint2_Back_End\SP_Medical_Group_DBFirst\senai.S
 C:\Users\familia\Desktop\Senai\Sprint2_Back_End\SP_Medical_Group_DBFirst\senai.SP_Medical_Group.webApi\senai.SP_Medical_Group.webApi\obj\Debug\net5.0\senai.SP_Medical_Group.webApi.xml
 C:\Users\familia\Desktop\Senai\Sprint2_Back_End\SP_Medical_Group_DBFirst\senai.SP_Medical_Group.webApi\senai.SP_Medical_Group.webApi\obj\Debug\net5.0\senai.SP_Medical_Group.webApi.pdb
 C:\Users\familia\Desktop\Senai\Sprint2_Back_End\SP_Medical_Group_DBFirst\senai.SP_Medical_Group.webApi\senai.SP_Medical_Group.webApi\obj\Debug\net5.0\senai.SP_Medical_Group.webApi.genruntimeconfig.cache
+C:\Users\FIC\Desktop\Andre\Senai_Sprint2_back-end\SP_Medical_Group\senai.SP_Medical_Group.webApi\senai.SP_Medical_Group.webApi\obj\Debug\net5.0\senai.SP_Medical_Group.webApi.xml
+C:\Users\FIC\Desktop\Andre\Senai_Sprint2_back-end\SP_Medical_Group\senai.SP_Medical_Group.webApi\senai.SP_Medical_Group.webApi\obj\Debug\net5.0\senai.SP_Medical_Group.webApi.pdb
